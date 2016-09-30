@@ -1,1 +1,3 @@
 # laravel-elixir-blueberry
+
+coming soon...
